@@ -1,3 +1,5 @@
 = BookytPos
 
-This project rocks and uses MIT-LICENSE.
+This project is deprecated.
+
+Of course the code is still available under the MIT License;-)
